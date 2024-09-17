@@ -1,1 +1,1 @@
-FROM bonilla4/simplejs:v2
+FROM bonilla4/simplejs:v3
